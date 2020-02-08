@@ -1,4 +1,4 @@
 WPU Resolusi
 -Belajar laravel
 -Belajar Git dan Git Hub
--Web-Development
+-membuat vlogs
