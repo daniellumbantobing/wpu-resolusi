@@ -3,6 +3,7 @@ Rencana konten wpu
 * ES6
 * Framework Javascript
   ~value
+  ~react
 - Struktur data dasar
 -Php Frame Work
   ~laravel
