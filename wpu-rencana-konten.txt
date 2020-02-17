@@ -1,5 +1,7 @@
 Rencana konten wpu
 -Java Script
+* ES6
+* Framework Javascript
 -Php Frame Work
 -Interview
 -Vlogs
